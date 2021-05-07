@@ -10,7 +10,7 @@
 
 # Folders
 
-./src/**/*
+/src
 
 # Icon must end with two \r
 Icon
