@@ -12,6 +12,16 @@
 
 /src
 
+#Files
+
+gulpfile.js
+package-lock.json
+package.json
+app.css.map
+build/js/bundle.js.min.map
+build/js/bundle.js.map
+postcss.config.js
+
 # Icon must end with two \r
 Icon
 
