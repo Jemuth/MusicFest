@@ -8,8 +8,9 @@
 .AppleDouble
 .LSOverride
 
-# Source img
-./src/img
+# Folders
+
+./src/**/*
 
 # Icon must end with two \r
 Icon
